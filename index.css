@@ -8,7 +8,7 @@ body {
 }
 .box {
     width: 290px;
-    height: 400px;
+    height: 440px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 12px;
     
@@ -28,6 +28,8 @@ body {
 .text {
     width: 230px;
     font-size: 15px;
+    text-align: center;
+    margin-left: 12px;
 }
 h3 {
     font-family: 'Outfit', sans-serif;

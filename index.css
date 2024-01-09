@@ -41,3 +41,14 @@ p {
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
+
+@media only screen and  (max-width:600px){
+.box {
+margin-top: 40px;
+}
+}
+@media only screen and  (max-width:375px){
+    .box{
+margin-top: 40px;
+}
+}
